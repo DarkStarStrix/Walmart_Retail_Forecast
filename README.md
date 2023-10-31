@@ -1,4 +1,4 @@
-Walmart Data Analysis and Forcasting
+Walmart Data Analysis and Forecasting
 
 A retail store that has multiple outlets across the country are facing issues in managing the
 inventory - to match the demand with respect to supply. You are a data scientist, who has to
